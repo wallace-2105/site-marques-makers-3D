@@ -44,9 +44,9 @@ function initProducts() {
             <h3 class="font-bold text-lg mb-1" style="font-family: var(--font-display)">${product.name}</h3>
             <p class="text-gray-500 text-sm mb-4">${product.description}</p>
             <div class="flex justify-between items-center">
-              <span class="font-bold text-cyan-600 text-lg">${formatCurrency(product.price)}</span>
+              <span class="font-bold text-indigo-600 text-lg">${formatCurrency(product.price)}</span>
               <button
-                class="btn-buy bg-cyan-600 hover:bg-cyan-700 text-white px-4 py-2 rounded-lg text-sm font-semibold transition duration-300"
+                class="btn-buy bg-indigo-600 hover:bg-indigo-700 text-white px-4 py-2 rounded-lg text-sm font-semibold transition duration-300"
                 data-product-id="${product.id}"
                 onclick="handleAddToCart(this, ${product.id})"
               >
