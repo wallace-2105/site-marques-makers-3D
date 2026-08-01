@@ -1,4 +1,5 @@
 # Marques Makers 3D
+<img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/14a6ae49-040d-4414-8861-261a5e467ab5" />
 
 Site institucional e vitrine de produtos da **Marques Makers 3D**, loja especializada em impressão 3D personalizada (miniaturas, chaveiros, suportes, peças técnicas e presentes). O site funciona como catálogo + carrinho, e o fechamento da venda é feito via WhatsApp — sem gateway de pagamento embutido.
 
