@@ -84,7 +84,7 @@ Antes de colocar no ar, ajuste estes pontos:
 ---
 
 ## 🛒 Como funciona o fluxo de compra
-qqqq
+
 
 1. Cliente adiciona produtos ao carrinho pelo botão **"Comprar"**.
 2. Ao abrir o carrinho, clica em **"Fechar pedido pelo WhatsApp"**.
