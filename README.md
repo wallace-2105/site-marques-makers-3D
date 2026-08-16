@@ -84,6 +84,7 @@ Antes de colocar no ar, ajuste estes pontos:
 ---
 
 ## 🛒 Como funciona o fluxo de compra
+@walla
 
 
 1. Cliente adiciona produtos ao carrinho pelo botão **"Comprar"**.
